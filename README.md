@@ -6,6 +6,7 @@
 * `submission.csv` - финальный файл с предсказаниями
 * `solution_sirius_final.ipynb` - ноутбук с решением (также его можно найти на colab, [тык](https://colab.research.google.com/drive/1xMAh0iJvb2D4Raj2HP1Vcq5C96SFvDH8?usp=sharing)
 * `label_encoder_7824.pkl` - веса лучшей модели
+* в `data` лежат использованные исходные и промежуточные датафреймы, сохраненные в `csv`
 
 ## Шаги решения
 
